@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "53775129706",
+    "project_id": "haiapp-2b951",
+    "storage_bucket": "haiapp-2b951.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53775129706:android:2475fa7123def7ebb33e13",
+        "android_client_info": {
+          "package_name": "com.example.haiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53775129706-05jsptcsvb62jej79ge00poiqb3o9tas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haiapp",
+            "certificate_hash": "3515609b736319ab6d97424129ea7c08bd3c2b78"
+          }
+        },
+        {
+          "client_id": "53775129706-b3jrmcvfpsjslge6nbafpq1okc87mp7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7jPtwWM-JlM-HrdAP3mQvpe3ONyZqvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53775129706-b3jrmcvfpsjslge6nbafpq1okc87mp7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

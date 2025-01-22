@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "haiapp-2b951",
+  "private_key_id": "ae455917a85174e4f919860d6e7820bd59656573",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDK9FS7Z2ll+fEa\nD49GJt4o4zVAR0AlmHx+f28b3jgAK+RErOLHhMXq2YYQnmUYZHTGfeC3xNLecIRH\nEC3ryV2NUjZHhIzx5rTztd3gXj4+Zays+zmDIppGvzDY4zYR/YK449n+9g7HPIHd\nN14mII+Dmz1tls7CqvLnfKgm6H0JMAITHZXnS8d+eQcowVzQ8iDHihpArzh/xjVw\nUWAurL3VnrwW1NgABwSI3LZlWsEyXWkjpzkVdl2F+0/f9aE0ErbbYhIYUUowvsKe\noSoQ6u9nNumi2EDuKfuiqKInibm7ykbbRZD87LAidgH6P6RF65CHN+TpIynxaBU2\nIQ9LYISpAgMBAAECggEAYq6uzHiZ3QXM37kVFy0q9IKVj+2VGTKtxew8oDZK0HqH\nAYV2t0Ct42VlNItv6I5f4Wuvamt/hLz89Hi/e1hr7p0820VuKujcr2uMuN3aMgjK\nD0oQStz2WtP38l14GwNDHpdblgcaZHHdSyzy0GMgpQNEuRaM7kak2T3ZnSGKOn6J\nlbYTwecl28J6avfPS2rBgwSnwmphq3UpHs2Zx4u2f1Mr9rrE1fuNv8JuTXMbF2xT\nTNHgZOIJh4Hj7dxT06jqTl0qbB2ySfxALy5kb8D6lD/QkUisrFjF7ePNt9vINwhw\nFA41DOzAgXwTganrq8JKFrqwIfWhhYbW9eGnv9zHCQKBgQDsLjFWIAyMjUfmALb4\nINb00a5w57i28UG1E0brFwyUci5pbYzgvBKrdquABgt9eufuDLMEAtmTmD6iqeG0\nv5f0n0dUNHeib4CCWvnFA82pD9i9e12yMaZMqIk2/Rd3UhI8Kgu29zXiCfKygGbK\nMWTeNXzL+uBu0YXKY9+RjeHwrwKBgQDb/FoGaxPqLkLNVn1Blk0620gLjuZPQFf1\nUUYYLpsdv1SIPxYpKhVBgYFCU8tMsanOX41yggT/c9K5tq2kUCEeoKAofHTQU8nb\nuEP9Uda8mkjw58MRzhiwcyz/pXIEkD418QLDnY0t5y6D9CwBYiGmkN54ekXaKECJ\n/fhOw2tGJwKBgQCmdjxBtp8BpUYqnxBWvFalAPCRFVFEZ7BnHqoaYgl0yzFZD2R+\ntS/3d9GSjzAkBa9YQc0eo5+UfnaPEWtKiMtiF60fdUdozmvl9JccO/0FDm01x7CX\nOpU6bIMhpaqXZ9oAW6YcFAr/QQG0u/k2wy+TymEmJ7FtifFhX5kgrr6zcwKBgQCl\n0boqTFxekTBZh3AzGBBu5QuRas2/v0iN6g1j/P1/ltEpQiR6MvaCwhOk43TDAsh0\nfyInxknuJGgbBNAuoxfT9k/DNMz4m6/0pxjYwe+TitigfpJTwX5qwuaQbS1csz2x\ne1ISEZhxmWk+nbbt9AJZg6muNrygjObZHU8mT7d00QKBgCIjkamB/PVZEhrGu9Ww\n3zQ5WThz0iI7kwhzUrL24LUAsGuSxiClxDNSpniTQPZEov+GKBulGNRrWL2Oiumo\nNywogHt/K4S3SKbPoVau3rhTzgdKgktyH1pg7H/BX9mHhqmKBxxjCZQtTaq7jLNU\nJBT/pYZurqPXnqVFYzNw46TC\n-----END PRIVATE KEY-----\n",
+  "client_email": "haitam@haiapp-2b951.iam.gserviceaccount.com",
+  "client_id": "116539971990999922034",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/haitam%40haiapp-2b951.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
