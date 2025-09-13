@@ -14,7 +14,7 @@ jobs:
         run: echo "Welcome to my first GitHub Actions Workflow!"
 
       - name: Checkout Repository
-        uses: actions/checkout@5.0.0
+        uses: actions/checkout@v5.0.0
 
       - name: List Repository files
         run: ls -la
