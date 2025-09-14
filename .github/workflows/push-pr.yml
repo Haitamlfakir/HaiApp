@@ -1,0 +1,23 @@
+on: 
+  push:
+      branches:
+          - main
+          - "release/**"
+      path:
+          - "src/**"
+  pull_request:
+      branches:
+          - main
+          - "release/**"
+jobs:
+  test:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout Code
+          uses: actions/checkout@v5.0.0
+
+        - name: Run Tests
+          run: |
+            flutter clean
+            flutter pub get
+            flutter run
